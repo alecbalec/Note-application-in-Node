@@ -57,5 +57,3 @@ if (command === 'add') {
 } else {
   console.log('Command not recognized');
 }
-// In this application I learned how to create command line tools, how to use third party modules, use global modules and how to create my own files (notes) that have functions that cna be used inside the application.
-// Also how to access the file system (JSON data) to store, create and read the data.
